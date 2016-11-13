@@ -33,7 +33,13 @@ brew install ffmpeg
 
 # Examples :
 One frame Comparison : https://drive.google.com/open?id=0BwFAR9Wz2_s2dTRXN25DZ3FOZW8 (Left Before, Right After)
-One frame example : <img src="./images/input_detail.png" width=400> <img src="./images/superres_epoch6_detail.png" width=400>
+
+
+One frame example(After 10 epochs) : https://drive.google.com/open?id=0BwFAR9Wz2_s2YmliWkYtdDNqUGs
+
+<img src="./images/input_detail.png" width=400> <img src="./images/superres_epoch6_detail.png" width=400>
+
+
 
 Before Super Resolution Model Fast :   https://www.youtube.com/watch?v=6EHMEbHScKI
 
