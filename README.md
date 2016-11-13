@@ -91,7 +91,7 @@ The Model  upscales the Video by 2x at the exact same resolution!
 One frame Comparison : ![alt text](Comparison.png "Space Odessey 2001")
 
 
-One frame example(After 10 epochs) : ![alt text](screenshots/filename.png "Description goes here")
+One frame example(After 10 epochs) : ![alt text](Compare6.png "Compare6")
 
 # The orignal Video was Higher Res Than the input, but I converted to a low res video, for the input of the Model.... So you can see the model's power converting very low res videos to High-Res
 
