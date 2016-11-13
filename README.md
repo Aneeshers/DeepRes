@@ -1,6 +1,8 @@
 # DeepRes
 
 Uses Deep learning and sub-pixel convolutional nets to create High(er) resolution videos from low(er) resolution videos
+![alt text](Compare 4.png "")
+The Top frame is the input/original, the bottom frame is the output frame.
 
 ## How To run (Tested on MacOS Sierra CPU)
 
@@ -47,18 +49,12 @@ os.system(command6)
 command7 = "-c:v copy -c:a aac -strict experimental " + OutPutFileDirAfter + "WithAudio.mp4 "
 
 
-
-
-
-
-
-
-
-
 ```
 
 
-## Requirements python3.5(MUST)
+## Requirements python3.5(MUST) 
+
+
 ```
 colorama
 ```
@@ -85,6 +81,7 @@ Scipy
 brew install libav
 
 brew install ffmpeg
+
 
 
 ## Examples Note: The FPS of the videos were purposely decreased drastically, because the time that the model was being built had a time  limit (hackathon) the higher FPS the more quality the results will be. : 
