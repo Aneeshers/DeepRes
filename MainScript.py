@@ -14,5 +14,5 @@ command2 = "python3.5" + EnhancePYDir + " --zoom=2" + Dir + "*.jpg"
 os.system(command2)
 command3 = "avconv -framerate 15 -f image2 -i " + DirectoryToSave + "  -b 65536k out1.mov"
 os.system(command3)
-command4 = "avconv -framerate 15 -f image2 -i " + DirectoryToSaveX +  "-b 65536k out2.mov"
+command4 = "avconv -framerate 15 -f image2 -i " + DirectoryToSaveX +  " -b 65536k out2.mov"
 os.system(command4)
