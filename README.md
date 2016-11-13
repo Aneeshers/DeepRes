@@ -91,9 +91,7 @@ The Model  upscales the Video by 2x at the exact same resolution!
 One frame Comparison : ![alt text](Comparison.png "Space Odessey 2001")
 
 
-One frame example(After 10 epochs) : https://drive.google.com/open?id=0BwFAR9Wz2_s2YmliWkYtdDNqUGs
-
-<img src="./images/input_detail.png" width=400> <img src="./images/superres_epoch6_detail.png" width=400>
+One frame example(After 10 epochs) : ![alt text](screenshots/filename.png "Description goes here")
 
 # The orignal Video was Higher Res Than the input, but I converted to a low res video, for the input of the Model.... So you can see the model's power converting very low res videos to High-Res
 
