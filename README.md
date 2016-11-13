@@ -83,10 +83,12 @@ brew install libav
 brew install ffmpeg
 
 
+![alt text](Compare5.png "Compare5")
+The Model  upscales the Video by 2x at the exact same resolution!
 
 ## Examples Note: The FPS of the videos were purposely decreased drastically, because the time that the model was being built had a time  limit (hackathon) the higher FPS the more quality the results will be. : 
 
-One frame Comparison : https://drive.google.com/open?id=0BwFAR9Wz2_s2dTRXN25DZ3FOZW8   
+One frame Comparison : ![alt text](Comparison.png "Space Odessey 2001")
 
 
 One frame example(After 10 epochs) : https://drive.google.com/open?id=0BwFAR9Wz2_s2YmliWkYtdDNqUGs
