@@ -1,4 +1,5 @@
 # DeepRes
+
 Uses Deep learning and sub-pixel convolutional nets to create High(er) resolution videos from low(er) resolution videos
 
 # How To run (Tested on MacOS Sierra CPU)
@@ -31,7 +32,7 @@ brew install ffmpeg
 
 # Good Luck!
 
-# Examples :
+# Examples Note: The FPS of the videos were purposely decreased drastically, because the time that the model was running had a time  limit (hackathon) the higher FPS the more quality the results will be. : 
 One frame Comparison : https://drive.google.com/open?id=0BwFAR9Wz2_s2dTRXN25DZ3FOZW8 (Left Before, Right After)
 
 
