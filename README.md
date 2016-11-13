@@ -95,7 +95,7 @@ One frame example(After 10 epochs) : ![alt text](Compare6.png "Compare6")
 
 # The orignal Video was Higher Res Than the input, but I converted to a low res video, for the input of the Model.... So you can see the model's power converting very low res videos to High-Res
 
-Before Super Resolution Model  :   https://www.youtube.com/watch?v=-H7Oba1H00s
+Before Super Resolution Model  : ![alt text]( "hqdefault2 .png")   https://www.youtube.com/watch?v=-H7Oba1H00s
 
 After Super Resolution Model  : https://www.youtube.com/watch?v=v5yBOTp5M9M
 
